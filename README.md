@@ -1,4 +1,4 @@
-### Hi there 👋
+### 一、自我介绍
 
 <!--
 **aihjw/aihjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hhh
+我叫黄建威，来自广东河源。我平时喜欢听音乐，打篮球，看动漫;目前的目标是找到好的offer实习并转正

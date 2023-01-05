@@ -1,4 +1,0 @@
-spring:
-  mvc:
-    static-path-pattern: /res/**
-  
